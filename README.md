@@ -1,7 +1,9 @@
 ### Summary ###
 This sample shows how to add the functionality of uploading images to SharePoint pages. 
 
-To set up this sample, we used a provider-hosted add-in using .NET CSOM that adds some files and script links to the Host Web.
+To set up this sample, we used a provider-hosted add-in using .NET CSOM that adds some files and script links to the Host Web. 
+
+It was based on some Components from the SharePoint PnP repository.
 
 ### Applies to ###
 -  Office 365 Multi Tenant (MT)
@@ -45,7 +47,7 @@ copyPasteImages.Update();
 ```
 
 # Copy Paste Functionality #
-The functionality will be added to the Page Body's fields on your page. So you can just copy an image from your photo viewer or editor.
+The functionality will be installed and attached to the Body fields on your pages. So you can just copy an image from your photo viewer or editor.
 
 ![Screenshot of navigation](http://i.imgur.com/760PG9b.png "Screenshot of an image being copied")
 
