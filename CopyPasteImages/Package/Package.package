@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="241a1361-c2f1-4840-b258-b5c8393a6062" solutionId="241a1361-c2f1-4840-b258-b5c8393a6062" resetWebServer="false" sharePointProductVersion="15.0" name="Contoso.CopyPasteImages" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" />

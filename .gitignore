@@ -3,3 +3,18 @@
 ################################################################################
 
 /.vs/config
+/.vs/CopyPasteImages/v15
+/CopyPasteImages/bin/Debug
+/CopyPasteImages/obj
+/CopyPasteImages/pkg/Debug/Contoso.CopyPasteImages
+/CopyPasteImages/pkgobj/Debug
+*.user
+/CopyPasteImagesWeb/obj
+/CopyPasteImagesWeb/Properties/PublishProfiles
+/CopyPasteImagesWeb/bin
+/node_modules
+/packages/AppForSharePointWebToolkit.3.0.1
+/CopyPasteImages.v12.suo
+/packages/jQuery.1.9.1/Tools
+/packages/jQuery.1.9.1/jQuery.1.9.1.nupkg
+/packages/jQuery.1.9.1
